@@ -1,1 +1,46 @@
 # Tic-Tac-Toe
+
+Tic Tac Toe android app which allows users to play Tic-Tac-Toe via bluetooth.
+
+This app allows users to play a single player game locally, a multi-player game locally, and a multi-player game via bluetooth. This app was a way for me to learn how the bluetooth api works, so I put a new spin on a classic game. I decided to also make a local single player and multiplayer version. Game was degined to look like a notebook doodle, and the font and markers a designed to look like pen writing.
+
+Intall intructions:
+
+Pull repository onto Android Studio 
+Put phone into developer mode (Google intructions if needed) 
+Run app in Android Studio, and select the phone under available devices and install the .apk onto the phone 
+Select "Tic Tac Toe" to play game 
+Sound Ready
+
+**Game intructions:**
+
+**Single Player**
+
+To play single player, press "One Player" 
+Enter your username 
+Select a marker type: "X" or "O" 
+Select difficulty "Easy", "Medium" or "Hard" 
+Select Start 
+Play Tic Tac Toe as you normally would 
+Once game is over, you can select to play a new game or go back to the main menu 
+
+**Multiplayer Local**
+1. To play multiplayer local, press "Two Player" 
+2. Select "Local" on the game type 
+3. Enter a name for player one and player two 
+4. Select player one's marker: "X" or "O" 
+5. Press Start 
+6. Player One goes first, Play Tic Tac Toe as you normally would 
+7. Once game is over, you can select to play a new game or go back to the main menu 
+
+**Multiplayer Bluetooth** 
+1. To play multiplayer bluetooth, press "Two Player" 
+2. Select "Bluetooth" on the game type 
+3. Enter a username 
+4. Press Start 
+5. If bluetooth is not on, app request to turn it on, select "Allow" 
+6. Press the magnifiying glass icon on the taskbar to find available devices/ paired devices 
+7. Press the location marker beside the magnifying glass to enable bluetooth discoverable to allow device to be found 
+8. Once a device is found and connected using the search icon, the game will start automatically 
+9. Host player goes first, Play Tic Tac Toe as you normally would 
+10. Once game is over, you can select to play a new game or go back to main menu 
