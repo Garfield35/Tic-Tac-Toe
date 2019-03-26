@@ -16,13 +16,13 @@ Sound Ready
 
 **Single Player**
 
-To play single player, press "One Player" 
-Enter your username 
-Select a marker type: "X" or "O" 
-Select difficulty "Easy", "Medium" or "Hard" 
-Select Start 
-Play Tic Tac Toe as you normally would 
-Once game is over, you can select to play a new game or go back to the main menu 
+1. To play single player, press "One Player" 
+2. Enter your username 
+3. Select a marker type: "X" or "O" 
+4. Select difficulty "Easy", "Medium" or "Hard" 
+5. Select Start 
+6. Play Tic Tac Toe as you normally would 
+7. Once game is over, you can select to play a new game or go back to the main menu 
 
 **Multiplayer Local**
 1. To play multiplayer local, press "Two Player" 
