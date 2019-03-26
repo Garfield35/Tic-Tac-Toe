@@ -4,7 +4,7 @@ Tic Tac Toe android app which allows users to play Tic-Tac-Toe via bluetooth.
 
 This app allows users to play a single player game locally, a multi-player game locally, and a multi-player game via bluetooth. This app was a way for me to learn how the bluetooth api works, so I put a new spin on a classic game. I decided to also make a local single player and multiplayer version. Game was degined to look like a notebook doodle, and the font and markers a designed to look like pen writing.
 
-Intall intructions:
+**Intall intructions:**
 
 Pull repository onto Android Studio 
 Put phone into developer mode (Google intructions if needed) 
